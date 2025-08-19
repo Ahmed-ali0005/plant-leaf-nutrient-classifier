@@ -69,10 +69,10 @@ python predict_image.py #to classify a leaf image
 Update the est image path in the scripts to where the test image maybe stored.
 
 ## Example Output:
-📷 Prediction for: leaf_sample.jpg
-Nitrogen deficiency: 0.8421
-Potassium deficiency: 0.1032
-Healthy: 0.0547
+  📷 Prediction for: leaf_sample.jpg
+  Nitrogen deficiency: 0.8421
+  Potassium deficiency: 0.1032
+  Healthy: 0.0547
 
 
 ## License
